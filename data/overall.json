@@ -1,0 +1,59 @@
+[
+    {   
+        "courseName" : "Android Developer",
+        "coverPage" : "/vindemy/assets/cover_pages/android.jpg",
+        "description" : "A beginner-to-advanced Android Application Development Course",
+        "coursePath" : "/vindemy/data/details/android/android.html",
+        "jsonPath" : "/vindemy/data/courses/android.json"
+    },
+    {   
+        "courseName" : "English essentials",
+        "coverPage" : "/vindemy/assets/cover_pages/english.jpg",
+        "description" : "A beginner-friendly (not quite) English vocabulary and grammar course",
+        "coursePath" : "/vindemy/data/details/english/english.html",
+        "jsonPath" : "/vindemy/data/courses/english.json"
+
+    },
+    {   
+        "courseName" : "Digital Artist",
+        "coverPage" : "/vindemy/assets/cover_pages/digital-artist.jpg",
+        "description" : "Learning how to become a digital artist from start, but not to finish.",
+        "coursePath" : "/vindemy/data/details/digital-art/digital-artist.html",
+        "jsonPath" : "/vindemy/data/courses/digital-artist.json"
+    },
+    {   
+        "courseName" : "Learning How To Learn",
+        "coverPage" : "/vindemy/assets/cover_pages/learning-how-to-learn.jpg",
+        "description" : "Learning how to learn, study and improve yourself effectively.",
+        "coursePath" : "/vindemy/data/details/how-to-learn/how-to-learn.html",
+        "jsonPath" : "/vindemy/data/courses/how-to-learn.json"
+    },
+    {   
+        "courseName" : "Financial Management",
+        "coverPage" : "/vindemy/assets/cover_pages/fin-manage.jpg",
+        "description" : "Use your money wisely is applied for both rich and poor.",
+        "coursePath" : "/vindemy/data/details/fin-manage/fin-manage.html",
+        "jsonPath" : "/vindemy/data/courses/fin-manage.json"
+    },
+    {   
+        "courseName" : "Guides to Smart Note",
+        "coverPage" : "/vindemy/assets/cover_pages/note.jpg",
+        "description" : "Even the way you note heavily impact on how you learn.",
+        "coursePath" : "/vindemy/data/details/take-note/take-note.html",
+        "jsonPath" : "/vindemy/data/courses/take-note.json"
+    },
+    {   
+        "courseName" : "Understanding Python",
+        "coverPage" : "/vindemy/assets/cover_pages/python.jpg",
+        "description" : "The basics of Python, for making desktop app and scriptings",
+        "coursePath" : "/vindemy/data/details/python/python.html",
+        "jsonPath" : "/vindemy/data/courses/python.json"
+    },
+    {   
+        "courseName" : "Rust : A How-to guide.",
+        "coverPage" : "/vindemy/assets/cover_pages/rust.jpg",
+        "description" : "Learning the most loved language among devs, it's fun!",
+        "coursePath" : "/vindemy/data/details/rust/rust-lang.html",
+        "jsonPath" : "/vindemy/data/courses/rust.json"
+    }
+]

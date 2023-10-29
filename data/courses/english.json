@@ -1,0 +1,90 @@
+[
+    {   
+        "sectionName" : "12 Simple Tenses, keep it simple",
+        "sectionContent" : [
+            {
+                "lessonName" : "Present simple",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/1-present-simple.md"
+            },
+            {
+                "lessonName" : "Present continuous",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/2-present-continous.md"
+            },
+            {
+                "lessonName" : "Present perfect and perfect continuous",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/3-present-perfect.md"
+            },
+            {
+                "lessonName" : "Past simple",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/4-past-simple.md"
+            },
+            {
+                "lessonName" : "Past continuous",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/5-past-continuous.md"
+            },
+            {
+                "lessonName" : "Past perfect",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/6-past-perfect.md"
+            },
+            {
+                "lessonName" : "Future Simple and Near Future",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/7-future-near-and-simple.md"
+            },
+            {
+                "lessonName" : "Future continuous",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/8-future-continuous.md"
+            },
+            {
+                "lessonName" : "Future : Perfect and Perfect Continuous",
+                "lessonFile" : "/vindemy/data/details/english/1-12-simple-tenses/9-future-but-it-is-perfect.md"
+            }
+        
+        ]
+    },
+    {   
+        "sectionName" : "Word type, working with various types of English words",
+        "sectionContent" : [
+            {
+                "lessonName" : "Nouns & Pronouns",
+                "lessonFile" : "/vindemy/data/details/english/2-word-type/1-noun-and-pronoun.md"
+            },
+            {
+                "lessonName" : "Adjectives and Verbs",
+                "lessonFile" : "/vindemy/data/details/english/2-word-type/2-adj-and-verb.md"
+            },
+            {
+                "lessonName" : "Adverbs and other",
+                "lessonFile" : "/vindemy/data/details/english/2-word-type/3-adv-and-nothing.md"
+            },
+            {
+                "lessonName" : "Preposition and more",
+                "lessonFile" : "/vindemy/data/details/english/2-word-type/4-prepositions-and-more.md"
+            }
+        
+        ]
+    },
+    {   
+        "sectionName" : "Sentence structures",
+        "sectionContent" : [
+            {
+                "lessonName" : "Comparision",
+                "lessonFile" : "/vindemy/data/details/english/3-sentence-struct/1.comparision.md"
+            },
+            {
+                "lessonName" : "Conditions and Wishes",
+                "lessonFile" : "/vindemy/data/details/english/3-sentence-struct/1.comparision.md"
+            },
+            
+            {
+                "lessonName" : "Passive Sentences and Reported Speech",
+                "lessonFile" : "/vindemy/data/details/english/3-sentence-struct/1.comparision.md"
+            },
+            
+            {
+                "lessonName" : "Other sentence structure",
+                "lessonFile" : "/vindemy/data/details/english/3-sentence-struct/1.comparision.md"
+            }
+        
+        ]
+    }
+]

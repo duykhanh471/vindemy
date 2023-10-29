@@ -1,0 +1,17 @@
+@media (min-width: 992px) {
+    .rounded-lg-3 { border-radius: .3rem; }
+}
+
+.block_divider {
+  width: 100%;
+  height: 4rem;
+}
+
+.card-img-none {
+  width: 100%;
+  height: 40vh;
+  object-fit: cover;
+}
+
+
+

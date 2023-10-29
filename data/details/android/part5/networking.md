@@ -1,0 +1,1 @@
+https://scribe.rip/android-development-hub/retrofit-with-kotlin-jetpack-compose-clean-architecture-and-mvvm-dd2d4d6eb82b

@@ -1,0 +1,118 @@
+[
+    {   
+        "sectionName" : "Android in a quick glance.",
+        "sectionContent" : [
+            {
+                "lessonName" : "Programming Languages",
+                "lessonFile" : "/vindemy/data/details/android/part1/1-language.md"
+            },
+            {
+                "lessonName" : "Android Operating System",
+                "lessonFile" : "/vindemy/data/details/android/part1/2-android-os.md"
+            },
+            {
+                "lessonName" : "The Android Platform",
+                "lessonFile" : "/vindemy/data/details/android/part1/3-android-platform.md"
+            },
+            {
+                "lessonName" : "App Manifest",
+                "lessonFile" : "/vindemy/data/details/android/part1/4-android-manifest.md"
+            }
+        ]
+    },
+
+    {   
+        "sectionName" : "Android Components",
+        "sectionContent" : [
+            {
+                "lessonName" : "App Components",
+                "lessonFile" : "/vindemy/data/details/android/part2/1-component.md"
+            },
+            {
+                "lessonName" : "Intents",
+                "lessonFile" : "/vindemy/data/details/android/part2/2-intent.md"
+            },
+            {
+                "lessonName" : "App Entry Points",
+                "lessonFile" : "/vindemy/data/details/android/part2/3-entry-point.md"
+            }
+        ]
+    },
+
+
+    {   
+        "sectionName" : "Jetpack Compose",
+        "sectionContent" : [
+            {
+                "lessonName" : "Text, Image, Layout, Modifiers",
+                "lessonFile" : "/vindemy/data/details/android/part4/1-text-image-layout.md"
+            },
+            {
+                "lessonName" : "Recomposition, state, side-effects",
+                "lessonFile" : "/vindemy/data/details/android/part4/2-recomposition.md"
+            },
+            {
+                "lessonName" : "Graphics and user gesture",
+                "lessonFile" : "/vindemy/data/details/android/part4/3-graphics.md"
+            },
+            {
+                "lessonName" : "Animation Basics",
+                "lessonFile" : "/vindemy/data/details/android/part4/4-animation.md"
+            }
+        ]
+    },
+
+    {   
+        "sectionName" : "Design Pattern - currently in progress",
+        "sectionContent" : [
+            {
+                "lessonName" : "Dependency Injection",
+                "lessonFile" : ""
+            },
+            {
+                "lessonName" : "Builder Pattern",
+                "lessonFile" : ""
+            },
+            {
+                "lessonName" : "Factory Pattern",
+                "lessonFile" : ""
+            },
+            {
+                "lessonName" : "Observer Pattern",
+                "lessonFile" : ""
+            },            
+            {
+                "lessonName" : "Repository Pattern",
+                "lessonFile" : ""
+            },
+            {
+                "lessonName" : "Android App Architecture",
+                "lessonFile" : ""
+            }
+        ]
+    },
+
+    {   
+        "sectionName" : "Working with other libraries",
+        "sectionContent" : [
+            {
+                "lessonName" : "Networking",
+                "lessonFile" : ""
+            },
+            {
+                "lessonName" : "Image Loading",
+                "lessonFile" : ""
+            },
+            {
+                "lessonName" : "Local Storage",
+                "lessonFile" : ""
+            },
+
+            {
+                "lessonName" : "Asynchronous",
+                "lessonFile" : ""
+            }
+        
+        ]
+    }
+]
