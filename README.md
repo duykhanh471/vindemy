@@ -13,13 +13,3 @@ Updated : 20/10/2023 : I have kinda finished the barebone for the website and th
 Add more things later....
 ## Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-### Dashboard 2
-![Dashboard 2](screenshots/dashboard-2.png)
-### Courses
-![Courses](screenshots/courses.png)
-### Course details
-![Details](screenshots/detailed-course.png)
-### Learning space
-![Learn](screenshots/post.png)
