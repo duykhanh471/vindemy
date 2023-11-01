@@ -13,9 +13,8 @@ An activity is an independent and reusable component that interacts with the use
 
 All activities have their own lifecycle, which is an important concept to manage activities and resources. The [Activity class](https://developer.android.com/guide/components/activities/intro-activities) provides a core set of callback methods that tells an activity that a lifecycle state has changed.
 
-The callback method will be called following the lifecycle sequence seen in the figure below:
+![lifecycle](/vindemy/data/details/android/res/app-lifecycle.jpg "Android Application Lifecycle")
 
-![](data:image/svg+xml;charset=utf-8,%3Csvg height='663' width='513' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
 
 Activity lifecycle diagram
 You can declare how your activity behaves and efficiently manage your resources with lifecycle callback methods. In this section, we’ll discuss the six core callback methods below:
@@ -66,10 +65,6 @@ A service has its own dedicated lifecycles and provides two types that tell the 
 
 -   **startService**: Another component can run a service by calling [startService()](https://developer.android.com/reference/android/content/Context#startService(android.content.Intent)). This service will run in the background and another component can also stop the service by calling [stopService()](https://developer.android.com/reference/android/content/Context#stopService(android.content.Intent)).
 -   **bindService**: Another component or a client can run a service by calling [bindService()](https://developer.android.com/reference/android/content/Context#bindService(android.content.Intent,%20android.content.ServiceConnection,%20int)). The `bindService()` function provides a [IBinder](https://developer.android.com/reference/android/os/IBinder) interface, which allows the client to communicate with the service consistently. This service will run in the background. Another component or client can also cancel the connection by calling [unbindService](https://developer.android.com/reference/android/content/Context#unbindService(android.content.ServiceConnection)).
-
-As you can see in the figure below, a service’s lifecycle depends on how it was created:
-
-![](data:image/svg+xml;charset=utf-8,%3Csvg height='507' width='389' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
 
 
 According to the [Android docs](https://developer.android.com/guide/components/services), the figure above “separates services that are created by `startService()` from those created by `bindService()`”, but regardless of how services are started, they can potentially allow clients to bind to them.
@@ -151,8 +146,6 @@ Next, for your app to be able to use the service, you must declare it on the [A
 A content provider manages how your application’s data is accessed and shared with other applications. According to the [Android Docs](https://developer.android.com/reference/android/content/ContentProvider), a content provider enables your app to share any kind of persistent data, be it stored in a file system, a [SQLite database](https://developer.android.com/training/data-storage/sqlite), a [Jetpack Room](https://developer.android.com/jetpack/androidx/releases/room), or on the web.
 
 Content providers secure data by requiring specific permissions. If a requesting application doesn’t have the required permissions, it can’t query the content provider’s data.
-
-![](data:image/svg+xml;charset=utf-8,%3Csvg height='367' width='470' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
 
 
 

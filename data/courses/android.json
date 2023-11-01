@@ -44,20 +44,24 @@
         "sectionName" : "Jetpack Compose",
         "sectionContent" : [
             {
-                "lessonName" : "Text, Image, Layout, Modifiers",
-                "lessonFile" : "/vindemy/data/details/android/part4/1-text-image-layout.md"
+                "lessonName" : "Part 1 : Compose Essentials",
+                "lessonFile" : "/vindemy/data/details/android/part3/part-1.md"
             },
             {
-                "lessonName" : "Recomposition, state, side-effects",
-                "lessonFile" : "/vindemy/data/details/android/part4/2-recomposition.md"
+                "lessonName" : "Part 2 : Layouts, theming, and animation",
+                "lessonFile" : "/vindemy/data/details/android/part3/part-2.md"
             },
             {
-                "lessonName" : "Graphics and user gesture",
-                "lessonFile" : "/vindemy/data/details/android/part4/3-graphics.md"
+                "lessonName" : "Part 3 : Architecture and state",
+                "lessonFile" : "/vindemy/data/details/android/part3/part-3.md"
             },
             {
-                "lessonName" : "Animation Basics",
-                "lessonFile" : "/vindemy/data/details/android/part4/4-animation.md"
+                "lessonName" : "Part 4 : Accessibility",
+                "lessonFile" : "/vindemy/data/details/android/part3/part-4.md"
+            },
+            {
+                "lessonName" : "Part 5 : Form factors",
+                "lessonFile" : "/vindemy/data/details/android/part3/part-5.md"
             }
         ]
     },
@@ -66,28 +70,16 @@
         "sectionName" : "Design Pattern - currently in progress",
         "sectionContent" : [
             {
-                "lessonName" : "Dependency Injection",
-                "lessonFile" : ""
+                "lessonName" : "Flows in Kotlin",
+                "lessonFile" : "/vindemy/data/details/android/part4/1-flows.md"
             },
             {
-                "lessonName" : "Builder Pattern",
-                "lessonFile" : ""
+                "lessonName" : "Coroutine - A lightweight thread",
+                "lessonFile" : "/vindemy/data/details/android/part4/2-coroutines"
             },
             {
-                "lessonName" : "Factory Pattern",
-                "lessonFile" : ""
-            },
-            {
-                "lessonName" : "Observer Pattern",
-                "lessonFile" : ""
-            },            
-            {
-                "lessonName" : "Repository Pattern",
-                "lessonFile" : ""
-            },
-            {
-                "lessonName" : "Android App Architecture",
-                "lessonFile" : ""
+                "lessonName" : "Database and Room database in Android",
+                "lessonFile" : "/vindemy/data/details/android/part4/3-database"
             }
         ]
     },
